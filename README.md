@@ -10,4 +10,4 @@
 3.Based in the user input it gives the result by performing the specific input
 
 
-4.Example:-If user clicks on "(","3", "x" ,"6",")","%","3" it gives the result as "0"
+4.Example:-If user clicks on "(","3", "x" ,"6",")","+","3" it gives the result as "21"
